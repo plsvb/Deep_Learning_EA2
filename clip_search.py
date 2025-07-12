@@ -16,7 +16,8 @@ text_prompts = [
     "Kulinarische Köstlichkeiten",
     "London",
     "Die Muschel am Strand",
-    "Kühe in den Bergen"
+    "Kühe in den Bergen","
+
 ]
 
 # 🧠 CLIP-Modell laden
